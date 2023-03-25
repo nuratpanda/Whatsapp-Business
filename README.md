@@ -11,6 +11,6 @@ Lastly, we built a user interface using streamlit to make it more interactable.
 
 I attached the code for the recommenders system, the streamlit code and also a video on how it works.
 
-NOTE: It still under production so it might not work well.
+NOTE: It is still under production so it might not work well.
 
 Feedbacks and suggestions are higly welcome. You can contact me at labakebusiness4@gmail.com
