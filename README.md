@@ -13,4 +13,4 @@ I attached the code for the recommenders system, the streamlit code and also a v
 
 NOTE: It is still under production so it might not work well.
 
-Feedbacks and suggestions are higly welcome. You can contact me at labakebusiness4@gmail.com
+Feedbacks and suggestions are highly welcome. You can contact me at labakebusiness4@gmail.com
