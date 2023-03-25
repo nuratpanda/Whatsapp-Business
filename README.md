@@ -1,7 +1,7 @@
 # Whatsapp-Business
 The Project recommends local business around you using WhatsApp.
-The idea is to help you locate local business around you using whatsapp. For example if you need to find the nearest barbing salon, all you need is go to whatsapp and type in barbing salon and it finds it for you.
-Details of the project was done goes below;
+The idea is to help you access the phone numbers and adresses of local business around you using whatsapp. For example if you need to find the nearest barbing salon, all you need is go to whatsapp and type in barbing salon and it gets the numbers and addresses of barbing salon around you.
+Details of hoew the project was done goes below;
 
 We obtained people's number on whatsapp and the name of their businesses
 
